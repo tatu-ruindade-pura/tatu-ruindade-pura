@@ -1,6 +1,16 @@
 # Bem vindo ao meu perfil! 🤠
 
 Meu nome é **Arthur Messias**
+
+* Sou estudante do primeiro ano do ensino médio
+* Jogo vídeo-games,bola,jogos de celular e computador
+* Gosto muito de ouvir música e assistir
+
+  ### Meu Contato :📫
+  
+
+arthurmferraresi@gmail.com
+
 **tatu-ruindade-pura/tatu-ruindade-pura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
